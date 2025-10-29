@@ -30,7 +30,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "news-i-m-starting-my-mscs-degree-in-georgia-tech",
+        },{id: "nav-academics",
+          title: "academics",
+          description: "Coursework I&#39;ve taken / TA&#39;d for",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/academics/";
+          },
+        },{id: "post-first-post",
+        
+          title: "First post",
+        
+        description: "my first blog post",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/first_post/";
+          
+        },
+      },{id: "news-i-m-starting-my-mscs-degree-in-georgia-tech",
           title: 'I’m starting my MSCS degree in Georgia Tech!',
           description: "",
           section: "News",},{id: "news-i-ll-be-joining-aws-as-a-software-development-engineer-intern-this-summer-sparkles-smile",
@@ -68,14 +86,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/howard-wang-b35293208", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/how-shing-wang-b35293208/", "_blank");
         },
       },{
         id: 'social-scholar',
