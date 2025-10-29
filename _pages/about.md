@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSCS @ Georgi Tech | BSCS @ National Taiwan University
+subtitle: MSCS @ Georgia Tech | BSCS @ National Taiwan University
 
 profile:
   align: right
@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm How-Shing Wang, a second-year master's student majoring in Computer Science at Georgia Tech. My interests lie in ML systems, spanning from cloud infrastructure to performant GPU kernels. Currently, I am studying compilers and GPU architecture to gain a more holistic view of the entire ML system stack.
+I'm How-Shing Wang, a second-year master's student majoring in Computer Science at Georgia Tech. My interests lie in ML systems, spanning from cloud infrastructure, inference engines, to performant GPU kernels. Currently, I am studying compilers and GPU architecture to gain a more holistic view of the entire ML system stack.
 
 In my free time, I enjoy listening to J-Pop, watching Netflix, playing tennis, and sometimes creating content on Threads. Unfortunately, as a grad student, I don't have much of it!
